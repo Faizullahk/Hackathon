@@ -1,0 +1,69 @@
+.body{
+    background-color: black;
+    display: flex;
+}
+
+.start{
+width: 100%;
+height: 50px;
+background-color: aqua;
+}
+.btn1{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+.nav123{
+    position: absolute;
+    left: 50%;
+}
+.nav11{
+    position: relative;
+    left: 10%;
+
+}
+.main{
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+}
+.main1{
+    width: 350px;
+    height: 300px;
+    margin: 50px;
+    position: absolute;
+    left: 10%;
+}
+.btn2{
+    width: 250px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: black;
+    color: azure;
+    
+
+}
+.main2{
+    width: 400px;
+    height: 300px;
+    border-color: black;
+    position: absolute;
+    left: 50%;
+}
+.img10{
+  width: 100%;
+  position: absolute;
+  left: 5%;
+}
+.service{
+     margin-top: 100px;
+     margin-left: 220px;
+}
+.full{
+    padding-left: 30px;
+}
+.card1{
+ width: 1200px;
+ height: 400px;
+ margin-left: 450px;
+}
